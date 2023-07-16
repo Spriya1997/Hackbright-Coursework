@@ -36,25 +36,11 @@ import java.util.*;
         }
     }
     class Soda extends Drink{
-        double price;
-        public double getPrice(){
-            return price;
-        }
-        public void setPrice(double price){
-            this.price = price;
-        }
         public void type(){
             System.out.print(" A bottle of Soda");
         }
     }
     class Milk extends Drink {
-        double price;
-        public double getPrice(){
-            return price;
-        }
-        public void setPrice(double price){
-            this.price = price;
-        }
         public void type(){
             System.out.print(" A bottle of Milk");
         }
