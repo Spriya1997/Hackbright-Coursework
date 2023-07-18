@@ -1,4 +1,4 @@
- # Savor Share - Data reearch
+ # Savor Share - Data research
  ## Sign Up Details
 * User data : name, email Id, password.
 * System data : User id, registered_date and time 
