@@ -88,6 +88,8 @@
 
  ## Notification Page :
 * Data : Displays message and time.
-* Action :  When users get a new message, notification tab will be highlighted and shows count of number of new messages.
+* Action :
+  1. When users get a new message, notification tab will be highlighted and shows count of number of new messages in application.
+  2. If a user's phone number is registered, they will receive milestone notifications via text message, such as "Congratulations for getting 100 likes" and "successfully uploaded your first recipe."    
 * Result : unread messages will be highlighted and followed by read messages will be displayed in the notification.
 
