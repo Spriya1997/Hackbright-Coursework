@@ -30,3 +30,10 @@ bin/
 ##############################
 .vscode/
 .code-workspace
+desktop.ini
+noteApp/mvnw
+noteApp/mvnw.cmd
+noteApp/.mvn/wrapper/maven-wrapper.jar
+noteApp/.mvn/wrapper/maven-wrapper.properties
+desktop.ini
+noteApp/.mvn/wrapper/maven-wrapper.jar
